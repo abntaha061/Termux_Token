@@ -5,9 +5,9 @@ import android.graphics.Bitmap
 import android.graphics.Color
 import android.net.Uri
 import com.example.pdfreader.native.NativeLib
-import io.legere.pdfiumandroid.PdfDocument
-import io.legere.pdfiumandroid.PdfiumCore
-import io.legere.pdfiumandroid.util.Size
+import com.shockwave.pdfium.PdfDocument
+import com.shockwave.pdfium.PdfiumCore
+import com.shockwave.pdfium.util.Size
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import java.io.File
