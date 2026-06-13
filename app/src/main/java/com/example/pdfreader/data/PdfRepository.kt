@@ -156,7 +156,7 @@ class PdfRepository(private val context: Context) {
     }
 
     fun close() {
-        document?.close()
+        document?.let { core.closeDocument(it) }
         document = null
         docInfo = null
     }
