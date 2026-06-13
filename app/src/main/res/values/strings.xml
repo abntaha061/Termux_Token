@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قارئ PDF</string>
+    <string name="open_pdf">فتح ملف PDF</string>
+    <string name="no_file_selected">لم يتم اختيار أي ملف</string>
+    <string name="loading">جاري التحميل…</string>
+    <string name="page_of">صفحة %1$d من %2$d</string>
+    <string name="search">بحث</string>
+    <string name="bookmarks">الإشارات المرجعية</string>
+    <string name="add_bookmark">إضافة إشارة مرجعية</string>
+    <string name="remove_bookmark">إزالة الإشارة المرجعية</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="zoom_in">تكبير</string>
+    <string name="zoom_out">تصغير</string>
+    <string name="reset_zoom">إعادة ضبط التكبير</string>
+    <string name="copy">نسخ</string>
+    <string name="speak">نطق</string>
+    <string name="translate">ترجمة</string>
+    <string name="copied_to_clipboard">تم النسخ</string>
+    <string name="error_loading_pdf">حدث خطأ أثناء تحميل الملف</string>
+    <string name="error_opening_link">تعذر فتح الرابط</string>
+    <string name="go_to_page">الانتقال إلى صفحة</string>
+    <string name="share">مشاركة</string>
+    <string name="document_info">معلومات الملف</string>
+    <string name="close">إغلاق</string>
+    <string name="speaking">جارٍ النطق…</string>
+    <string name="stop">إيقاف</string>
+</resources>
