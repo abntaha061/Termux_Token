@@ -78,7 +78,7 @@ dependencies {
     implementation("androidx.compose.material:material-icons-extended")
 
     // PDFium bindings for Android (native PDF rendering, AOSP/Chromium PDFium under the hood)
-    implementation("io.legere:pdfiumandroid:1.0.21")
+    implementation("com.github.barteksc:pdfium-android:1.9.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.2.1")
